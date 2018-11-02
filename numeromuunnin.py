@@ -1,8 +1,7 @@
 #!/usr/bin/python2
 
 import sys
-import itertools #Kaytetaan roomalaisten numeroiden lajittelussa
-from parsettaja import *
+from parsettaja import * #Oma funktio
 
 if len(sys.argv)<2:
     print 'Unohdit antaa komentorivilla syotteen. Anna Roomalainen numero jonka haluat kaantaa'

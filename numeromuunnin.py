@@ -1,3 +1,5 @@
+#!/usr/bin/python2
+
 import sys
 import itertools #Kaytetaan roomalaisten numeroiden lajittelussa
 from parsettaja import *

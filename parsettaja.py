@@ -1,3 +1,5 @@
+#!/usr/bin/python2
+
 import sys
 ######## Parsettaja roomalaisten numeroiden kasittelyyn ##########
 ##

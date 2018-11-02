@@ -1,4 +1,7 @@
 #!/usr/bin/python2
+#
+# Muuntaa roomalaisen numeron kymmenjarjestelmaan kometorivilla
+# kaytto python numeromuunnin.py 'Muunnettava roomalainen numero'
 
 import sys
 from parsettaja import * #Oma funktio
